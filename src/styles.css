@@ -4,12 +4,17 @@ body{
 }
 .menu{
     display: inline-block;
-    justify-content: baseline;
+    
 }
 h1{
-    color:red;
+    color:orange;
 }
 p{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+}
+.croissant{
+    width: 600px;
+    height: 300px;
+    align-content: center;
 }
